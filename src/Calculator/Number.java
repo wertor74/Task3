@@ -1,6 +1,6 @@
 package Calculator;
 // операнды и результат
-public class Number {
+class Number {
     public String strValue; // строковое значение
     public int intValue; // числовое значение
     public boolean romanNumber; // является ли римским числом
