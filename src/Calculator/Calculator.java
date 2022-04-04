@@ -3,7 +3,7 @@ package Calculator;
 import java.util.Scanner;
 
 public class Calculator {
-    Number result, operand1, operand2;
+    public Number result, operand1, operand2;
     public String [] romanNumberArr = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
 
     public Calculator() {
